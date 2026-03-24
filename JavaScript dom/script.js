@@ -33,4 +33,8 @@ if(oop>0){
 }else if(oop<0||oop===0){
     OOP.innerHTML="OOP: Site studenti se prefrlija vonredno."
 }
+ 
+sp = 110;
+vp = 50;
+oop = 5;
 })
